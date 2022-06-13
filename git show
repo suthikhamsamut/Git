@@ -1,0 +1,43 @@
+[33mcommit 235f58ea4d6a8e54aea66a35f5dddd54b9014b01[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 2fbd164 15a7767
+Author: Suthi Khamsamut <suthi.code@gmail.com>
+Date:   Sat Jun 11 21:24:08 2022 +0700
+
+    Merge branch 'main' of https://github.com/suthikhamsamut/Git
+
+[33mcommit 2fbd164546b6a917d61dec573d6bd81c2740dd93[m[33m ([m[1;32mstyle-branch[m[33m)[m
+Author: Suthi Khamsamut <suthi.code@gmail.com>
+Date:   Sat Jun 11 19:02:30 2022 +0700
+
+    create branch style-branch
+
+[33mcommit 15a77674983c595c7f78607579fd0b03eb11ec68[m
+Merge: e5d230e 12a1ab8
+Author: Suthi Khamsamut <suthi.code@gmail.com>
+Date:   Sat Jun 11 12:48:36 2022 +0700
+
+    fix config error
+
+[33mcommit 12a1ab85d682df9bfd18df29b73fc38a82624786[m
+Author: ProDay <suthi.code@gmail.com>
+Date:   Sat Jun 11 12:45:54 2022 +0700
+
+    add tag p and add style
+
+[33mcommit e5d230edb4326ee2273ecb1a4c54694168155256[m
+Author: Suthi Khamsamut <suthi.code@gmail.com>
+Date:   Sat Jun 11 12:43:11 2022 +0700
+
+    add tag p and style
+
+[33mcommit 2899ed1644700ae1059308573b288c5b4d259ff8[m
+Author: ProDay <suthi.code@gmail.com>
+Date:   Sat Jun 11 12:38:39 2022 +0700
+
+    add Hello world suthi khamsamut
+
+[33mcommit 9dad106c8be19b8c4f6d73fb57712721e8bcd036[m
+Author: Suthi Khamsamut <suthi.code@gmail.com>
+Date:   Sat Jun 11 12:26:17 2022 +0700
+
+    add file html structure
