@@ -1,1 +1,1 @@
-# Git Test application translators 
+# Git Test application 번역가
