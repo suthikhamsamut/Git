@@ -1,1 +1,1 @@
-# Git Test application 번역가
+# Git Test application
